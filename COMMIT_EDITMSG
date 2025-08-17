@@ -1,0 +1,7 @@
+feat: add initial HTML template for website generator app
+
+This commit introduces the main HTML template for a website generator application, including:
+- Responsive layout with form controls for project configuration
+- Preview section with iframe and code display
+- Basic styling with gradient backgrounds and modern UI elements
+- Embedded JavaScript methods for generating different project types
